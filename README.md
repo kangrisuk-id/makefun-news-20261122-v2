@@ -1,8 +1,8 @@
 # The World Today: 22 November 2026 in One Image — 28 Stories, One Page
 
 [![Competition](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
-[![Rank](https://make.fun/badge/news-image-20261122/kangrisuk-id/makefun-news-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122)
-[![Reward](https://make.fun/badge/news-image-20261122/kangrisuk-id/makefun-news-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
+[![Rank](https://make.fun/badge/news-image-20261122/kangrisuk-id/makefun-news-20261122-v2/rank.svg)](https://make.fun/bounty/news-image-20261122)
+[![Reward](https://make.fun/badge/news-image-20261122/kangrisuk-id/makefun-news-20261122-v2/reward.svg)](https://make.fun/bounty/news-image-20261122)
 
 ![The World Today — Sunday 22 November 2026: 28 stories on one page](entry.png)
 
